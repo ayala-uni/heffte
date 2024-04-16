@@ -20,6 +20,10 @@ Computing Project (ECP), which is a joint project of the U.S. Department of Ener
 Science and National Nuclear Security Administration (NNSA). HeFFTe delivers algorithms for
 distributed fast-Fourier transforms in on a heterogeneous systems, targeting the upcoming exascale machines.
 
+(SPANISH) 
+
+Heffte es una libreria que permite realizar transformadas de Fourier (FFT) a larga escala usando supercomputadores, fue patrocinada por el Departamento de Energia de los Estados Unidos.
+
 
 * * *
 
